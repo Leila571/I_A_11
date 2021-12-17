@@ -1,0 +1,24 @@
+file_example_MP3_700KB.mp3
+What time signature is this?
+Answer:
+4/4
+
+file_example_MP3_700KB.wav
+What genre is this?
+Answer:
+Pop
+
+file_example_MP3_700KB.wav
+What instruments are used?
+Answer:
+Guitar, drums
+
+file_example_MP3_700KB.wav
+What BPM is this?
+Answer:
+95
+
+file_example_MP3_700KB.mp3
+Does this song change time signatures?
+Answer:
+No
